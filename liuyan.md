@@ -1,9 +1,10 @@
 ---
 layout: page
-title: 留言板 
+title: 留言板「MESSAGE」 
 ---
 来留下你的足迹吧！哈哈...        
 <P>留言让我们距离更近哦..
+<p>对本网站有什么建议都可以提出来，我会不断的改进...
 <!-- 多说评论框 start -->
 	<div class="ds-thread" data-thread-key="/liuyan/" data-title="留言板" data-url="http://roboutkang/liuyan/"></div>
 <!-- 多说评论框 end -->

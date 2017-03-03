@@ -1,37 +1,45 @@
 ---
 layout: page
-title: 关于我 
+title: 关于我「ABOUT ME」 
 date: 2017-03-01 
 ---
 
-一个即将走出象牙塔的 MAKER，喜欢研究一些新技术和关注一些最新的科技。
+一个即将走出象牙塔的 Maker，喜欢研究一些新技术和关注一些最新的科技
 <p>
-平时喜欢整理个人博客，逛逛技术论坛。
+生于上个世纪九十年代内蒙古偏远山区的某个不知名的小村庄里,现居山城重庆的某个郊区...
 <p>
-了解一些 前端 基本概念和 Python 的简单用法。
+平时喜欢整理个人博客，逛逛技术论坛
+<p>
+了解一些 前端 基本概念和 Python 的简单用法
 
 <p>
 
 所在公司
-<a target="_blank" href="https://www.cqgoogol.com/"> TalkingData </a>
+<a target="_blank" href="http://www.cqgoogol.com"> googol「固高」</a>
 是一个自动化应用技术开发的公司，无论你是运营、产品、开发 或者是机器人相关用户都可以了解下我们公司。
 <p>
 
-推荐一个别人维护的 Team 博客
-<a target="_blank" href="http://talkingdata.me/"> voyagelab </a>
-里面有一些关于 iOS 、Android 和 机器学习 的文章。
 
 <p>
 
-<h3> 我们的博客 </h3>  
+<h3> PastTime</h3>   
 
 <p>
 
-是的，这个博客是我们大家的，目前已经有很大一部分人在使用我的博客模板了，我也很高兴大家使用我的模板。
+也许你听说过，「业余时间决定人生」；也许你还听说过，「听过很多道理，依然过不好这一生」。书籍、代码、博客、运动、电影、美剧、游戏，这就是我的业余生活。
+<div style="color:#708090">
+<p>
+     我的能力就这么多。我若全心工作，则必然忽略生活；我若用心生活，则必然一事无成；我若两者兼顾，又难免平庸
+</p>
+</div>
+<p>
+趁我在还能写得动代码看得进书的年纪，努力一回，看看这平庸的资质究竟能发挥几分。
 
 <p>
 
-如果你想搭建一个跟我一样的博客，可以看我的 
+<h3> Ps </h3>   
+<p>
+如果你想搭建一个跟我一样的博客，可以看
 <a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
 教程
 
@@ -41,9 +49,11 @@ date: 2017-03-01
 
 <p> 
 
-博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
+博客源码在 <a target="_blank" href='https://github.com/MengZheK/kangblog.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
 
-{% include comments.html %}
+<h3> 联系方式 </h3>   
+<p>邮箱：robotkang@foxmail.com   &emsp;微信：kang1390305137
+<p>
 
 
 
