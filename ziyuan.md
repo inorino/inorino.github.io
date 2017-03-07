@@ -15,7 +15,7 @@ title: 资源「USEFUL LINKS」
 <h3> Resource sharing</h3>   
 <P><a href="http://jekyllthemes.org"> Jekyll主题合集</a>我用的就是jekyll。      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hexojs/hexo/wiki/Themes"> Hexo主题合集</a>使用方法里面
 都有详细的介绍，我就不多说了。      
-<p><a href="https://github.com/litten/hexo-theme-yilia"> Xiaolei's Wiki </a>一个个人的维基百科库，相当给力！    
+<p><a href="http://wiki.xiaolei.tech"> Xiaolei's Wiki </a>一个个人的维基百科库，相当给力！    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/litten/hexo-theme-yilia"> Yilia </a>- Responsive and simple style 优雅简洁响应式主题。「存个档」
 
  <p>
