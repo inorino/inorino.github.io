@@ -5,7 +5,7 @@ title: 资源「USEFUL LINKS」
 这是我的资源仓库，我是仓库管理员！哈哈...        
 <P>大家来到此地不必约束，各取所需，各取所需哈..       
 
-<P><a  href="https://github.com/litten/zing-gallery"> 个人相册</a>即将上线，欢迎走进<a  href="https://github.com/litten/zing-gallery"> 我的世界</a>！Welcome！       
+<P>       
 <h3> Some useful/beautiful web </h3>   
 <p>
 <a href="https://www.panc.cc">胖次</a>- 网盘，资料搜索..
