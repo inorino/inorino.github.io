@@ -38,7 +38,7 @@ date: 2017-03-01
 <h3> Ps </h3>   
 <p>
 如果你想搭建一个跟我一样的博客，可以看
-<a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
+<a href="/2017/03/HowToCreateBlog/"> Jekyll+Github个人博客构建之路 </a>
 教程
 
 <p>
