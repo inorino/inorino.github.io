@@ -20,7 +20,7 @@ tag: 闲言碎语
    
 -----------------
 
-- 我想对正在浏览我博客的你说：*Welcong to my blog! I'll be with you until you leave me.*
+- 我想对正在浏览我博客的你说：*Welcome to my blog! I'll be with you until you leave me.*
 
 
 - 我想对这个多彩的世界说*：Hello world！I'm coming！*
