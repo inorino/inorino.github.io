@@ -6,7 +6,7 @@ date: 2017-03-01
 ![hello world](http://omjh2j5h3.bkt.clouddn.com/%E7%8C%8E%E8%B1%B9%E6%88%AA%E5%9B%BE20170310145433.png)
 
 <p>
-一个即将走出象牙塔的 Maker<a href="https://github.com/MengZheK/kangblog.github.io/blob/master/jianli.pdf/"> 「我的简历」 </a>，喜欢研究一些新技术和关注一些最新的科技 
+一个即将走出象牙塔的 Maker<a href="/jianli.pdf/"> 「我的简历」 </a>，喜欢研究一些新技术和关注一些最新的科技 
 
 <p>
 生于上个世纪九十年代内蒙古偏远山区的某个不知名的小村庄里,现居山城重庆的某个郊区...
