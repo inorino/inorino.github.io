@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Jekyll+Github个人博客构建之路
+title: Jekyll+Github个人博客构建之路 
 date: 2017-03-03 
 tag: 博客
 ---
 
+---------------------------------
+**本文转载自<a href="http://www.lilian.info" target="_blank">Lilian</a>，后稍加改之。特此声明！**
+
+---------------------------------
 
 
 *本博客的搭建真是历经了千辛万苦、一步一坑啊。*
